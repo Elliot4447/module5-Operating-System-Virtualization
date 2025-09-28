@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 b0 de ae c3 ed a3 22-53 d6 80 30 ac b8 35 d1</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">VM - 3.vmx</vmxPathName></VM></Foundry>
